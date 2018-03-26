@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "DatabaseInstanceType",
+    "ParameterValue": "db.r3.large"
+  },
+  {
+    "ParameterKey": "DatabaseName",
+    "ParameterValue": "iamauth"
+  },
+  {
+    "ParameterKey": "DatabaseUsername",
+    "ParameterValue": "master"
+  },
+  {
+    "ParameterKey": "DatabasePassword",
+    "ParameterValue": "Password123"
+  },
+  {
+    "ParameterKey": "DatabaseSubnets",
+    "ParameterValue": "subnet-12345678, subnet-23456781, subnet-34567812"
+  },
+  {
+    "ParameterKey": "DatabaseSecurityGroups",
+    "ParameterValue": "sg-45678123, sg-56781234"
+  },
+  {
+    "ParameterKey": "DatabaseBackupRetentionPeriod",
+    "ParameterValue": "7"
+  }
+]
