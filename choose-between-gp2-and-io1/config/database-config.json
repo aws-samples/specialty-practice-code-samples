@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "AuthenticationType",
+    "ParameterValue": "db"
+  },
+  {
+    "ParameterKey": "DatabaseHost",
+    "ParameterValue": "myinstance-gp2.c6il5hfvknyj.us-west-2.rds.amazonaws.com"
+  },
+  {
+    "ParameterKey": "DatabasePort",
+    "ParameterValue": "3306"
+  },
+  {
+    "ParameterKey": "DatabaseName",
+    "ParameterValue": "mydb"
+  },
+  {
+    "ParameterKey": "DatabaseUsername",
+    "ParameterValue": "master"
+  },
+  {
+    "ParameterKey": "DatabasePassword",
+    "ParameterValue": "Password123"
+  },
+  {
+    "ParameterKey": "SSLCertLocation",
+    "ParameterValue": "certlocation"
+  }
+]
